@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":980},"pages":[{"id":"page-profil","displayName":"Profil","link":{"linkType":"LinkTypePage","href":"#!page-profil"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-jobs","displayName":"Jobs","link":{"linkType":"LinkTypePage","href":"#!page-jobs"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-b-n-volat","displayName":"Bénévolat","link":{"linkType":"LinkTypePage","href":"#!page-b-n-volat"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-formation","displayName":"Formation","link":{"linkType":"LinkTypePage","href":"#!page-formation"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
